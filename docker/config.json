@@ -1,0 +1,8 @@
+{
+    "ClusterId": "payfriendz-goshawkdb-1",
+    "Version": 1,
+    "Hosts": ["localhost"],
+    "F": 0,
+    "MaxRMCount": 5,
+    "ClientCertificateFingerprints": ["8332e446e7637404b24a5a4137243beeff23e6c68f0cab7ed2ca5d408a08616f"]
+}

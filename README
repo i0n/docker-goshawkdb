@@ -1,0 +1,6 @@
+Simple Alpine based docker container for https://goshawkdb.io
+
+Compiles goshawkdb inside the container then cleans up after itself.
+Image size is only around 20mb
+
+Uses a static localhost config. Would need to be adjusted for cluster use.
